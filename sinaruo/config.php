@@ -45,4 +45,5 @@ session_start();
 define('SITE_NAME', 'نظام إدارة السيناريوهات الحرجة');
 define('MAX_TRANSFER_AMOUNT', 10000);
 define('CURRENCY', 'ريال سعودي');
+
 ?>
